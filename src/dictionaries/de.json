@@ -1,0 +1,16 @@
+{
+	"homepage": {
+		"home": "Heim",
+		"courses": "Kurse",
+		"about": "Um",
+		"contact": "Kontakt", 
+		"searchCourses": "Kurse suchen",
+		"empty": "Leer",
+		"total": "Gesamt",
+		"gotocheckout": "Zum Checkout gehen",
+		"loginRegister": "Anmeldung Registrieren",
+
+		"banner_heading": "Der weltweit führende Fernunterrichtsanbieter",
+		"banner_para": "Wir haben über 40.000 Online-Kurse und über 500.000 online registrierte Studenten. Finden Sie dort die Kurse, die Sie brauchen."
+	}
+}

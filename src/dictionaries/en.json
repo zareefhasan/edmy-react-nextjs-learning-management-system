@@ -1,0 +1,16 @@
+{
+	"homepage": {
+		"home": "Home",
+		"courses": "Courses",
+		"about": "About",
+		"contact": "Contact", 
+		"searchCourses": "Search Courses",
+		"empty": "Empty",
+		"total": "Total",
+		"gotocheckout": "Go to Checkout",
+		"loginRegister": "Login/Register",
+
+		"banner_heading": "Improve Your Online Learning Experience Better Instantly",
+		"banner_para": "We have 40k+ Online courses & 500K+ Online registered student. Find your desired Courses from them."
+	}
+}

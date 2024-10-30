@@ -1,0 +1,268 @@
+[lang=ar] html, [lang=ar] body {
+  direction: rtl;
+}
+[lang=ar] .header-right-content {
+  text-align: left;
+  padding: 0;
+}
+[lang=ar] .header-right-content li {
+  margin-right: 30px;
+  padding-right: 25px;
+  border-right: 1px solid #8fc4ca;
+}
+[lang=ar] .header-right-content li:first-child {
+  border-right: none;
+}
+[lang=ar] .navbar-area .navbar-brand {
+  margin-right: 0;
+  margin-left: 30px;
+}
+[lang=ar] .edmy-nav .navbar .others-options {
+  margin-left: 0;
+  margin-right: 30px;
+}
+[lang=ar] .edmy-nav .navbar .others-options ul li:nth-child(1) {
+  border: none;
+}
+[lang=ar] .edmy-nav .navbar .others-options .search-form .src-btn {
+  right: auto;
+  left: 17px;
+}
+[lang=ar] .edmy-nav .navbar .others-options .profile-dropdown .dropdown-menu {
+  right: auto;
+  left: 0;
+  text-align: right;
+}
+[lang=ar] .edmy-nav .navbar .others-options .profile-dropdown .dropdown-menu .dropdown-item {
+  padding: 8px 45px 8px 22px;
+}
+[lang=ar] .edmy-nav .navbar .others-options .profile-dropdown .dropdown-menu .dropdown-item.author-dropdown-item {
+  padding: 8px 15px 8px 22px;
+}
+[lang=ar] .edmy-nav .navbar .others-options .profile-dropdown .dropdown-menu .dropdown-item i {
+  left: auto;
+  right: 20px;
+}
+[lang=ar] .ps-3 {
+  padding-left: 0 !important;
+  padding-right: 1rem !important;
+}
+[lang=ar] .banner-content .search-form .default-btn {
+  right: auto;
+  left: 0;
+}
+[lang=ar] .banner-content .client-list {
+  padding: 0;
+}
+[lang=ar] .banner-content .client-list li p {
+  margin-left: 0;
+  margin-right: 30px;
+}
+[lang=ar] .single-courses .courses-content ul.admin {
+  padding: 0;
+}
+[lang=ar] .single-courses .courses-content ul.admin li {
+  margin-right: 0;
+  margin-left: 10px;
+}
+[lang=ar] .section-title.left-title {
+  margin-left: auto;
+  margin-right: 0;
+  text-align: right;
+}
+[lang=ar] .single-transform .transform-video-content {
+  margin-left: 0;
+  margin-right: 20px;
+}
+[lang=ar] .me-3 {
+  margin-right: 0 !important;
+  margin-left: 1rem !important;
+}
+[lang=ar] .teaching-content .teaching-feature h3 {
+  margin-left: 0;
+  margin-right: 15px;
+}
+[lang=ar] .single-footer-widget .info, [lang=ar] .single-footer-widget .import-link {
+  padding: 0;
+}
+[lang=ar] .pages-banner-content ul {
+  padding: 0;
+}
+[lang=ar] .pages-banner-content ul li {
+  margin-right: 0;
+  margin-left: 30px;
+}
+[lang=ar] .pages-banner-content ul li:first-child {
+  margin-right: 0;
+}
+[lang=ar] .pages-banner-content ul li::before {
+  right: auto;
+  left: -20px;
+}
+[lang=ar] .single-contact-info img {
+  margin-right: 0;
+  margin-left: 20px;
+}
+[lang=ar] .single-contact-info ul {
+  padding: 0;
+}
+[lang=ar] .form-check .form-check-input {
+  float: right;
+  margin-left: 0;
+  margin-right: -1.5em;
+}
+[lang=ar] .contact-form .form-check {
+  padding-left: 0;
+  padding-right: 12px;
+}
+[lang=ar] .szh-accordion .szh-accordion__item .szh-accordion__item-heading .szh-accordion__item-btn {
+  text-align: right;
+}
+[lang=ar] .nav-style1 li {
+  margin-right: 0;
+  margin-left: 20px;
+}
+[lang=ar] .text-end {
+  text-align: left !important;
+}
+[lang=ar] .action-dropdown .dropdown-menu .dropdown-item {
+  padding: 8px 40px 8px 15px;
+  text-align: right;
+}
+[lang=ar] .action-dropdown .dropdown-menu .dropdown-item i {
+  left: auto;
+  right: 15px;
+}
+[lang=ar] .teacher-courses-box .courses-image .price {
+  right: auto;
+  left: 20px;
+}
+[lang=ar] .teacher-courses-box .courses-image .discount-price {
+  right: auto;
+  left: 100px;
+}
+[lang=ar] .teacher-courses-box .courses-content .courses-box-footer {
+  padding: 0;
+}
+[lang=ar] .side-nav-wrapper .close {
+  right: auto;
+  left: 15px;
+}
+[lang=ar] .ms-2 {
+  margin-left: 0 !important;
+  margin-right: 0.5rem !important;
+}
+[lang=ar] .courses-review-comments .user-review {
+  padding: 20px 110px 20px 0;
+}
+[lang=ar] .courses-review-comments .user-review img {
+  left: auto;
+  right: 0;
+}
+[lang=ar] .courses-review-comments .user-review .review-rating span {
+  margin-left: 0;
+  margin-right: 5px;
+}
+[lang=ar] .shopping-cart-list .content .list li {
+  margin-right: 0;
+  margin-left: 15px;
+}
+[lang=ar] .shopping-cart-list .content .list li:last-child {
+  margin-left: 0;
+}
+[lang=ar] .ms-4 {
+  margin-left: 0 !important;
+  margin-right: 1.5rem !important;
+}
+[lang=ar] .single-cart {
+  padding: 0;
+}
+[lang=ar] .single-cart .single-cart-list .single-cart-content img {
+  margin-right: 0;
+  margin-left: 20px;
+}
+[lang=ar] .single-cart .single-cart-list .single-cart-content .lectures {
+  padding: 0;
+}
+[lang=ar] .single-cart .single-cart-list .single-cart-content .lectures li {
+  margin-right: 0;
+  margin-left: 20px;
+}
+[lang=ar] .single-cart .single-cart-list .single-cart-content .lectures li::before {
+  right: auto;
+  left: -14px;
+}
+[lang=ar] .cart-total ul {
+  padding: 0;
+}
+[lang=ar] .cart-total h3 span {
+  float: left;
+}
+[lang=ar] .course-details-content .best-seller {
+  padding: 0;
+}
+[lang=ar] .course-details-content .best-seller li {
+  margin-right: 0;
+  margin-left: 30px;
+}
+[lang=ar] .course-details-content .best-seller li::before {
+  right: auto;
+  left: -24px;
+}
+[lang=ar] .course-details-content .best-seller li:last-child {
+  margin-left: 0;
+}
+[lang=ar] .course-details-content .admin-info img {
+  margin-right: 0;
+  margin-left: 10px;
+}
+[lang=ar] .courses-curriculum ul {
+  padding: 0;
+}
+[lang=ar] .courses-curriculum ul .courses-meta .status {
+  margin-left: 0;
+  margin-right: 6px;
+}
+[lang=ar] .course-details-sidebar .sidebar-feature ul {
+  padding: 0;
+}
+[lang=ar] .coupon form button {
+  right: auto;
+  left: 0;
+}
+@media only screen and (max-width: 767px) {
+  [lang=ar] .text-end {
+    text-align: center !important;
+  }
+  [lang=ar] .header-right-content {
+    text-align: center;
+  }
+  [lang=ar] .header-right-content li {
+    margin-right: 15px;
+    padding-right: 15px;
+  }
+  [lang=ar] .edmy-nav .navbar .others-options {
+    right: auto;
+    left: 80px;
+  }
+  [lang=ar] .edmy-nav .navbar .others-options .profile-dropdown {
+    margin-right: 5px;
+  }
+  [lang=ar] .single-cart .prw h4 {
+    margin-right: 0;
+    margin-left: 20px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  [lang=ar] .header-right-content {
+    text-align: center;
+  }
+  [lang=ar] .header-right-content li {
+    margin-right: 15px;
+    padding-right: 15px;
+  }
+  [lang=ar] .edmy-nav .navbar .others-options {
+    right: auto;
+    left: 80px;
+  }
+}/*# sourceMappingURL=rtl.css.map */
